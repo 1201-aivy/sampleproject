@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoController {
 
 	public static void main(String[] args) {
-       System.out.println("qwerty");
+       System.out.println("qwerty1");
 
 	}
 
